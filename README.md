@@ -10,10 +10,10 @@ I build the inference infrastructure behind generative-AI products, and I like e
 
 #### Things here
 
-| Infra | Explaining systems | Tools |
+| Infra | Explaining systems | Site |
 | --- | --- | --- |
-| [p2c-simulator](https://github.com/diaosj/p2c-simulator) · 5k QPS across 300 rate-limited nodes; why power-of-two-choices beats a global scan | [https-simulator](https://https-simulator.vercel.app) · TLS handshake, certificates and MITM, animated | [bar-raiser-cli](https://github.com/diaosj/bar-raiser-cli) · Socratic interview drills with Claude, in Rust |
-| | [concurrency-arena](https://concurrency-arena.vercel.app) · process vs thread vs event loop vs goroutine under I/O and CPU load | [my-garden](https://github.com/diaosj/my-garden) · the site itself, Astro |
+| [p2c-simulator](https://github.com/diaosj/p2c-simulator) · 5k QPS across 300 rate-limited nodes; why power-of-two-choices beats a global scan | [https-simulator](https://https-simulator.vercel.app) · TLS handshake, certificates and MITM, animated | [my-garden](https://github.com/diaosj/my-garden) · source of diaosj.info, Astro |
+| | [concurrency-arena](https://concurrency-arena.vercel.app) · process vs thread vs event loop vs goroutine under I/O and CPU load | |
 
 Elsewhere: speaker in the Apache APISIX community; co-translator of *Problem Solving with Algorithms and Data Structures Using Python* (2019) and translator of *Practical Data Analysis* (2018); self-taught Go (weiqi) player, amateur 5-dan.
 
