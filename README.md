@@ -18,3 +18,5 @@ I build the inference infrastructure behind generative-AI products, and I like e
 Elsewhere: speaker in the Apache APISIX community; co-translator of *Problem Solving with Algorithms and Data Structures Using Python* (2019) and translator of *Practical Data Analysis* (2018); self-taught Go (weiqi) player, amateur 5-dan.
 
 shoujun.diao@gmail.com · Shanghai
+
+<sub>A computer guy with memory problems.</sub>
