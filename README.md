@@ -4,7 +4,7 @@ I build the inference infrastructure behind generative-AI products, and I like e
 
 **Now** · Backend architect at [Lovart](https://www.lovart.ai), an AI-agent product: service topology, gateways, the model and tool access layers, and what inference costs. Recent work: core services Python → Go, a 30% TTFT cut that let a 14-node H200 cluster run on 6, and routing with fallback across 10+ model vendors.
 
-**Before** · Seven years at Tencent. Tech lead for the gateway, AutoML and data-processing modules of Tencent Cloud's TI platform, from zero to commercialization; its AI gateway took a 100× traffic surge during the DeepSeek boom without an incident. Edge computing and AI cameras at YouTu Lab before that.
+**Before** · Nine years at Tencent (2016–2025). Five of them as tech lead for the gateway, AutoML and data-processing modules of Tencent Cloud's TI platform, from zero to commercialization; its AI gateway took a 100× traffic surge during the DeepSeek boom without an incident. Before that, edge computing and AI cameras at YouTu Lab, and the brand-advertising platform.
 
 **Writing** · [diaosj.info](https://diaosj.info). In progress: *A model gateway is a routing problem, not a proxy* · *Burn-down: a cost model for inference* · *Leaving one cloud: notes from a multi-cloud migration*.
 
